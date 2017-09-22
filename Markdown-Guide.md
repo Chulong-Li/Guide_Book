@@ -44,7 +44,6 @@ _You **can** combine them_
   * Item 2a
   * Item 2b
 
-
 ### Ordered
 ```
 1. Item 1
@@ -54,8 +53,40 @@ _You **can** combine them_
    1. Item 3b
 ```
 **Result:**
+
 1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+## Links
+```
+http://github.com - automatic!
+[GitHub](http://github.com)
+```
+**Result:**
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+## Blockquotes
+```
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+```
+**Result:**
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+## Inline code
+```
+I think you should use an
+`<addr>` element here instead.
+```
+**Result:**
+I think you should use an
+`<addr>` element here instead.
