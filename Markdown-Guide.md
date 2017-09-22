@@ -14,8 +14,9 @@ This is an overview of Markdown sytax that you can use daily.
 _This will also be italic_
 ```
 **Result:**
- > *This text will be italic*
- > _This will also be italic_
+> *This text will be italic*
+
+> _This will also be italic_
 
 ```
 **This text will be bold**
