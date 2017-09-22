@@ -1,6 +1,7 @@
-##Syntax guide
+## Syntax guide
 This is an overview of Markdown sytax that you can use daily.
-#Headers
+
+# Headers
 ```
 # This is an <h1> tag
 ## This is an <h2> tag
