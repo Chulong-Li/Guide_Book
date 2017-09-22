@@ -1,4 +1,4 @@
-### Syntax guide
+# Syntax guide
 This is an overview of Markdown sytax that you can use daily.
 
 ## Headers
