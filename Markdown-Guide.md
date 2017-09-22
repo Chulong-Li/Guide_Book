@@ -14,24 +14,21 @@ This is an overview of Markdown sytax that you can use daily.
 _This will also be italic_
 ```
 **Result:**
-> *This text will be italic*
-
-> _This will also be italic_
+*This text will be italic*
+_This will also be italic_
 
 ```
 **This text will be bold**
 __This will also be bold__
 ```
 **Result:**
-> **This text will be bold**
-> __This will also be bold__
+**This text will be bold**
+__This will also be bold__
 
 ```
 _You **can** combine them_
 ```
-
-**This text will be bold**
-__This will also be bold__
+**Result:**
 _You **can** combine them_
 
 ## List
