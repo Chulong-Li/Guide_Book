@@ -14,20 +14,20 @@ This is an overview of Markdown sytax that you can use daily.
 _This will also be italic_
 ```
 **Result:**
-*   This text will be italic*
+*This text will be italic*
 
 ```
 **This text will be bold**
 __This will also be bold__
 ```
 **Result:**
-**   This text will be bold**
+**This text will be bold**
 
 ```
 _You **can** combine them_
 ```
 **Result:**
-_   You **can** combine them_
+_You **can** combine them_
 
 ## List
 
@@ -38,6 +38,12 @@ _   You **can** combine them_
   * Item 2a
   * Item 2b
 ```
+**Result:**
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
 
 ### Ordered
 ```
@@ -47,3 +53,9 @@ _   You **can** combine them_
    1. Item 3a
    1. Item 3b
 ```
+**Result:**
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
