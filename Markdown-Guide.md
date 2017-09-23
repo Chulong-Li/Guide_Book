@@ -114,15 +114,15 @@ I think you should use an
 
 ##Syntax highlighting
 ```
-
-  ```javascript
+<p>
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
 ```
-
+</p>
 ```
 **Result:**
 
