@@ -113,7 +113,7 @@ I think you should use an
 - [ ] this is an incomplete item
 
 ##Syntax highlighting
-<p>
+<p>"
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -121,7 +121,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-</p>
+"</p>
 
 **Result:**
 
