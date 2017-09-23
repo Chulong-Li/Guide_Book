@@ -1,11 +1,11 @@
 # Git Guide for Quick Play
 
 ## Three efficient and useful commands that you will use all the time
-```javascript
-$ git add --all
-$ git commit -m "<message>"
-$ git push origin master
-```
+> ```javascript
+> $ git add --all
+> $ git commit -m "<message>"
+> $ git push origin master
+> ```
 
 ## Create a repo
 ```javascript
