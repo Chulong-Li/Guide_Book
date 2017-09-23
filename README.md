@@ -1,6 +1,6 @@
 # Guide_Book
 This guide book is about Git commands and Markdown commands to keep me remember and practice during the daily work.
 
-_**The [Markdown guide book](Markdown-Guide.md) has already been published!**_
+_**[Markdown guide book](Markdown-Guide.md)**_
 
-_**How about Git Guide? Stay Tuned!!!**_
+_**[Git guide book](Git-Guide.md)**_
