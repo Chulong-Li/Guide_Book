@@ -1,0 +1,37 @@
+# Git Guide for Quick Play
+
+```javascript
+$ git add --all
+$ git commit -m "<message>"
+$ git push origin master
+```
+
+```javascript
+$ git init
+```
+
+```javascript
+$ git remote -v
+$ git remote add origin <url>
+$ git clone <clone>
+```
+
+```javascript
+$ git branch
+$ git branch <name>
+$ git checkout <name>
+$ git checkout -b <name>
+```
+
+```javascript
+$ git merge
+```
+
+```javascript
+$ git pull origin
+```
+
+```javascript
+$ git status
+$ git diff --stat
+```
